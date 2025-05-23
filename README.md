@@ -13,7 +13,7 @@ Welcome to the **Tic Tac Toe** game! Enjoy a classic game with a modern interfac
 
 | Game Board | Winner Screen |
 |------------|--------------|
-| ![Game Board](screenshots/img.jpg) | ![Winner Screen](screenshots/imag.jpg) |
+| ![Game Board](Screenshots/img.jpg) | ![Winner Screen](Screenshots/imag.jpg) |
 
 ## 🚀 Getting Started
 
