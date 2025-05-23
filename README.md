@@ -10,12 +10,10 @@ Welcome to the **Tic Tac Toe** game! Enjoy a classic game with a modern interfac
 - Score tracking 🏆
 
 ## 🖼️ Screenshots
-> **Note:** The screenshot images referenced below (e.g., `screenshots/image2.png`) must exist in the `screenshots` folder of your repository.  
-> If you see a "404 - page not found" error, it means the image file is missing or the path is incorrect.  
-> Please ensure the `screenshots` directory and the required images are present in your repository.
+
 | Game Board | Winner Screen |
 |------------|--------------|
-| ![Game Board](screenshots/image2.jpg) | ![Winner Screen](screenshots/image1.jpg) |
+| ![Game Board](screenshots/img.jpg) | ![Winner Screen](screenshots/imag.jpg) |
 
 ## 🚀 Getting Started
 
